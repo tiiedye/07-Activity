@@ -4,8 +4,11 @@
     simple vector practice and experimentation in C++
     This is my first time using vectors.
 
-## Requirements for VS Code
+<img src="./assets/screenshot.png"
+     alt="Img"
+     style="margin-right: 10px; height: 400px;" />
 
+## Requirements for VS Code
     * C/C++
     * C/C++ Compile Run
     * mingw
